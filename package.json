@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -49,7 +48,3 @@
   "author": "",
   "license": "ISC"
 }
-"engines": {
-  "node": ">=18"
-}
-
