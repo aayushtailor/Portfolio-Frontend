@@ -13,7 +13,7 @@ import { ParticleBackground } from "../../components/ui/particle-background";
 import { AnimatedText } from "../../components/ui/animated-text";
 
 // 🧠 Flask backend URL
-const API_URL = "https://developer-portfolio-l936.onrender.com";
+const API_URL = "https://developer-portfolio-l936.onrender.com/";
 
 export default function ContactSection() {
   const [formData, setFormData] = useState({
